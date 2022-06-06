@@ -1,0 +1,4 @@
+pytube
+pyrogram==1.4.16
+python-dotenv
+py-tgcalls==0.8.2
